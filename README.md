@@ -1,2 +1,58 @@
-# powerbi-mobile-sales-dashboard
-This project presents an interactive sales analytics dashboard developed using Microsoft Power BI to analyze mobile phone sales performance. The dashboard highlights key metrics such as total sales, transactions, quantity sold, customer ratings, payment methods, and regional sales distribution to generate meaningful business insights.
+Motorola Mobile Sales Analytics Dashboard
+
+This project presents an interactive sales analytics dashboard built using Microsoft Power BI Desktop.
+The dashboard analyzes mobile phone sales performance across different brands, locations, payment methods, and customer ratings.
+
+The goal of this project is to help stakeholders understand sales trends, product performance, and customer behavior to support better business decisions.
+
+Dashboard Preview
+
+<img width="1242" height="711" alt="image" src="https://github.com/user-attachments/assets/a4e7bfb9-65ae-489b-91bc-71b9de84f09d" />
+
+📈 Key Metrics
+
+The dashboard highlights the following KPIs:
+
+Total Sales: 59M 
+
+Total Transactions: 291 
+
+Total Quantity Sold: 1K 
+
+Average Sales: 12M 
+
+📊 Dashboard Features
+
+The dashboard provides the following insights:
+
+Customer Ratings Analysis – Understand customer satisfaction levels.
+
+Sales Trend by Day – Track daily sales performance.
+
+Brand Performance – Compare sales and units sold by brand.
+
+Geographical Sales Distribution – Visual map of sales across Indian cities.
+
+Monthly Sales Analysis – Evaluate monthly sales trends.
+
+Payment Method Analysis – Distribution of transactions by payment method.
+
+🎛 Filters Available
+
+Users can interact with the dashboard using filters such as:
+
+Month selection
+
+Mobile Model
+
+Brand
+
+Payment Method
+
+These filters allow dynamic exploration of sales data.
+
+🛠 Tools & Technologies Used
+
+Microsoft Power BI Desktop – Data visualization & dashboard creation
+
+Microsoft Excel – Data source and preprocessing
